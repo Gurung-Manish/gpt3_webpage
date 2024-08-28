@@ -37,6 +37,18 @@
   margin-bottom: 0.25rem;
 }
 
+.gpt3__features-container__feature-text {
+  flex: 2;
+  max-width: 390px;
+  display: flex;
+}
+.gpt3__features-container__feature-text p {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: var(--color-text);
+}
 /* .gpt3__features-heading {
   flex: 1;
   display: flex;
