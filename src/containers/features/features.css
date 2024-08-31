@@ -35,7 +35,7 @@
   max-width: 390px;
   display: flex;
 }
-.gpt3__features-container__feature-text p {
+.gpt3__features-container_feature-text p {
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 14px;
